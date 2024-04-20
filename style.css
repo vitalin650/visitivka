@@ -2,7 +2,7 @@
 
 body {
     font-family: "Raleway", sans-serif;
-    background: url(images/white-paper-texture_1194-5998.avif);
+    background: url( images/white-paper-texture_1194-5998.avif );
     padding: 100px 0;
 }
 
@@ -29,7 +29,7 @@ body {
     justify-content: center;
     align-items: center;
     font-size: 40px;
-    background: rgba(0,0,0,0.3) url(/images/arnold-francisca-f77Bh3inUpE-unsplash.jpg)
+    background: rgba(0,0,0,0.3) url( images/arnold-francisca-f77Bh3inUpE-unsplash.jpg )
     no-repeat center center / cover ;
     color: #fff;
     margin-right: 10px;
@@ -57,7 +57,7 @@ body {
     height: 100%;
     width: 20%;
     /* border: 2px solid blue; */
-    background: url(/images/61MCzy7ycSL._AC_UF1000\,1000_QL80_.jpg)
+    background: url( images/61MCzy7ycSL._AC_UF1000\,1000_QL80_.jpg )
     no-repeat center center / cover;
 }
 
